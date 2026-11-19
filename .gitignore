@@ -5,3 +5,4 @@ data/cache/
 data/*.npz
 data/collect2.log
 out/report.html
+SESSION_NOTES.md
